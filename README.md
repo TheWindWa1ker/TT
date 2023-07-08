@@ -59,10 +59,10 @@ sudo make install
 
 ## 5. Clone repo
 ```bash
-git clone https://github.com/Braziliana/T_TApe.git
+git clone https://github.com/TheWindWa1ker/TT.git
 ```
 ```bash
-cd T_TApe
+cd TT
 ```
 
 ## 6. Build and run
